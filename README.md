@@ -8,8 +8,6 @@
   <a href="https://github.com/ViniciusMorimoto"><img src="https://img.shields.io/badge/GitHub-FACC15?style=for-the-badge&logo=github&logoColor=1E3A8A" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=460&lines=Aberto+a+oportunidades+de+est%C3%A1gio+%2F+j%C3%BAnior;Aprendendo+algo+novo+todos+os+dias;Bem-vindo(a)+ao+meu+perfil!" />
-
 </div>
 
 ---
@@ -21,12 +19,7 @@ Estudante de Desenvolvimento de Sistemas
 <tr>
 <td>
 
-```yaml
-nome:        "Vinicius Enzo Morimoto"
-formação:    "Etec Fernando Prestes Ext. Fatec
-localização: "Sorocaba-SP"
-status:      "aberto a oportunidades"
-```
+
 
 </td>
 </tr>
