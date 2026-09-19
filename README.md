@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E3A8A,50:2563EB,100:FACC15&height=200&section=header&text=Vinicius%20Morimoto&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Estudante%20em%20Desenvolvimento%2de%20Sistemas&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E3A8A,50:2563EB,100:FACC15&height=200&section=header&text=Vinicius%20Morimoto&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Estudante%20em%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
 <p>
   <a href="https://www.linkedin.com/in/vinicius-enzo-morimoto-0b3642383/"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,8 +14,7 @@
 
 ### 👋 Sobre mim
 
-Estudante de Desenvolvimento de Sistemas
-
+Estou cursando o 3ºano do Ensino Médio Técnico de Desenvolvimento de Sistemas AMS na Extensão Fatec da Etec Fernando Prestes
 ---
 
 ### 🛠️ Tecnologias
